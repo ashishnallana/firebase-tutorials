@@ -13,6 +13,10 @@ function App() {
   // function getData(){
  // *An initial call using the callback you provide creates a document snapshot immediately with the current contents 
  // *of the single document. Then, each time the contents change, another call updates the document snapshot.
+//   
+//   
+//   
+  ************listener to receive data-change events.
   //   ref.onSnapshot((querySnapshot) => {
   //     const items = []
   //     querySnapshot.forEach((doc) => {
